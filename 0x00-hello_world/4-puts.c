@@ -1,8 +1,9 @@
 #include<stdio.h>
-/* 
-* puts function
-*
-*/
+/*
+ * main - Entry point
+ *
+ * Return: Always 0 (success)  puts function
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
