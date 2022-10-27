@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+*main-function 
 *reset_to_98
 *@n :_pointer
 *return_void,_basically_nothing
