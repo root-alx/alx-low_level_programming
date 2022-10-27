@@ -1,10 +1,10 @@
 #include "main.h"
 /**
-*Function that updates pointer 
-* *n : pointer
-* return void, basically nothing
+*Function_that_updates_pointer
+**n :_pointer
+*return_void,_basically_nothing
 */
 void reset_to_98(int *n)
 {
-  *n = 98;
+*n = 98;
 }
