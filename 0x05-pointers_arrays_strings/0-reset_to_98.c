@@ -2,7 +2,7 @@
 /**
 *main-function
 *reset_to_98
-*n :_pointer
+*n:_pointer
 *void-function_that_updates_n
 *
 */
