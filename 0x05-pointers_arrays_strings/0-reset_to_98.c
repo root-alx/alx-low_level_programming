@@ -1,11 +1,11 @@
 #include "main.h"
 /**
 *main-function
-*reset_to_98
-*n:_pointer
-*void-function_that_updates_n
+*reset_to_98:_function
+*n:_parameter
 *
-*/
+*
+* /
 void reset_to_98(int *n)
 {
 *n = 98;
