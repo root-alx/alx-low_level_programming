@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-*main-function 
+*main-function
 *reset_to_98
-*@n :_pointer
+*n :_pointer
 *return_void,_basically_nothing
 *
 */
