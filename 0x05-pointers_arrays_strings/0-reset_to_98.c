@@ -3,7 +3,7 @@
 *main-function
 *reset_to_98
 *n :_pointer
-*return_void,_basically_nothing
+*void-function_that_updates_n
 *
 */
 void reset_to_98(int *n)
